@@ -6,6 +6,9 @@ A specialized cultural utility built with **Flutter** to help families track **"
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6758260041)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/gi4jlnkVlZ0/0.jpg)](https://www.youtube.com/watch?v=gi4jlnkVlZ0)
+
 ## 🌟 What is "Inunohi"?
 In Japan, dogs (Inu) are considered symbols of safe and easy childbirth because they give birth to many puppies with relatively little struggle. Following the 12-day cycle of the Chinese Zodiac, the **"Day of the Dog"** occurs every 12 days. Traditionally, during the 5th month of pregnancy, families visit shrines on this day to pray for a healthy delivery—a beautiful custom known as *Obi-iwai*.
 
